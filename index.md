@@ -1,5 +1,3 @@
-# index.md
-
 # Home
 
 Bem-vindo ao Glossário de Inteligência Artificial no Setor Público.
