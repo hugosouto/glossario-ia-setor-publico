@@ -17,4 +17,4 @@ python:
 
 # Build documentation with Mkdocs
 mkdocs:
-   configuration: docs/mkdocs.yml
+   configuration: mkdocs.yml
