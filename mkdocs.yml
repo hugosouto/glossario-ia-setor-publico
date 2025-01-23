@@ -5,6 +5,7 @@ site_description: "Glossário de Inteligência Artificial voltado ao setor públ
 site_author: "Hugo Souto e colaboradores"
 repo_url: "https://github.com/hugosouto/glossario-ia-setor-publico"
 edit_uri: "blob/main/docs"
+docs_dir: "glossario"
 theme:
   name: material
   language: pt
